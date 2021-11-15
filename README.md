@@ -1,0 +1,3 @@
+# Projet-HTML-CSS
+First project, discovery of HTML and CSS.
+The exercice was a template to reproduce. New techniques used such as navbar, display-flex, letter spacing, border radius, span::before...
